@@ -20,3 +20,5 @@ hola mucho gusto , mi nombre es joshua pero me pueden decir anakin
 
 estudio en la preparatoria federal lazaro cardenas 
 soy fan del juego doom y mi animal favorito es la nutria
+
+espero lograr mis metas estudiando y programando .
